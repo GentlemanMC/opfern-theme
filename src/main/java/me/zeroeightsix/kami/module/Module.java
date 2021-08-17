@@ -272,7 +272,7 @@ public class Module {
         PLAYER("Player", false),
         MOVEMENT("Movement", false),
         EXPLOIT("Exploit", false),
-        DL("DL"), false
+        DL("DL"), false),
         HUD("HUD", false),
         HIDDEN("Hidden", true);
 
